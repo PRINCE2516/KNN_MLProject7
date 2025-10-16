@@ -182,3 +182,5 @@ Value counts for categorical variables.
 Scikit-learn documentation for KNN
 
 Pandas and Plotly for data processing and visualization.
+
+reference-https://www.kaggle.com/code/alyashoush/knn-adult-income
